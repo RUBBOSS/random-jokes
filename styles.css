@@ -1,0 +1,35 @@
+.btn {
+	width: 160px;
+	margin: 5px;
+	font-family: 'Bad Script', cursive;
+	font-size:120%
+}
+body {
+	width:85%;
+	margin:auto;
+	background-color:#f0f0f5;
+}
+blockquote {
+	font-family: 'Bad Script', cursive;
+	font-size: 250%;
+}
+h1 {
+	font-family: 'Bad Script', cursive;
+	font-size: 400%;
+}
+a {
+  margin:10px;
+	font-size:120%;
+}
+
+img {
+  width: 100px;
+}
+
+footer {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
